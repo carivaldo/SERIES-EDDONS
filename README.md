@@ -313,6 +313,20 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>A série explora os reinos em guerra do Japão feudal quando vários poderosos senhores da guerra lutaram para se tornarem governantes absolutos. Ele traz à vida um elenco de personagens em uma luta épica através do drama estilizado que homenageará o noir dos romances gráficos e da arte japonesa. Será narrado a história de Date Masamune, um notório samurai conhecido como o "Dragão de Um Olho", que lutou ao lado dos três "pais fundadores" do Japão, senhores da guerra que levaram exércitos ferozes de samurais uns contra os outros para unir a nação. - Série documental original Netflix.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B]  SEE 1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info>
+</item>
+
 
 
 
