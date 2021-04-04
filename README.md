@@ -24,7 +24,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBMEZBS6GIVGJXWU44UZIYXI2LWAD6H</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/04/07/19/29/2754760.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>a princípio Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. a princípio Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info>
+<info>a princípio Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. a princípio Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info> 
 </item>
 
 <item>
