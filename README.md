@@ -380,9 +380,9 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 
 <item>
 <title>[COLOR silver][B] FALCÃO E O SOLDADO INVERNAL  1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKTEMQP2TZVMS2VWWGPTCMMM7MXXAXOH$nome=EP 1°</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3G5SSAOTUHKWYCIAUEMKMKXGNYFN6Z7$nome=EP 2º</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQSUUDVMLMVZFAZZL7763GFY475PH3IP$nome=EP 3°</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKTEMQP2TZVMS2VWWGPTCMMM7MXXAXOH$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3G5SSAOTUHKWYCIAUEMKMKXGNYFN6Z7$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQSUUDVMLMVZFAZZL7763GFY475PH3IP$nome=</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aecNDDnOQOON4t4Bd3KavX6Wv9o.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nessa minissérie de seis episódios, após se tornar o novo Capitão América, Sam Wilson e Bucky Barnes partem pelo mundo em uma aventura que testará suas habilidades... e sua paciência.</info>
