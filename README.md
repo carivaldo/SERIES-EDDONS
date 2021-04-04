@@ -258,7 +258,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/k85j2uQUjl6h7rkWpDyu4qX3kYZ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Primeira temporada completa da série nacional . Adriano é um historiador graduado que decide virar carcereiro para seguir os passos do pai. Quem lhe ajuda a lidar com os conflitos do ambiente sempre tenso são os colegas Vinícius e Isaías, o chefe de segurança Juscelino e a diretora Vilma, além do rabugento e quase aposentado carcereiro Valdir. O viúvo faz o que faz pela filha adolescente, Lívia e a segunda esposa, Janaína.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CARCEREIROS  2° TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
