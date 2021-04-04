@@ -241,6 +241,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
+<item>
 <title>[COLOR silver][B]  THE STAND  1º  TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d056ff60b345c1efbbb602cf67193f667d95f2$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a034d63857a8e74002a1bf30f3b640018d71d6$nome=</link>
