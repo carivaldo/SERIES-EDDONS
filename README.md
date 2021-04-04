@@ -27,7 +27,7 @@ SERIES - EDDONS
 <info>a princípio Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. a princípio Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info> 
 </item>
 
-<item>
+<item> 
 <title>[COLOR silver][B] LÁ CASA DE PAPEL 4° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3feb5ea1f76fa210ba9a0ab01207865cb824a424</link>
 <thumbnail>https://pipocasclub.com.br/wp-content/uploads/2020/03/la-casa-de-papel.jpg</thumbnail>
