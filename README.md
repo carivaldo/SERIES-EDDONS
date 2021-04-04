@@ -378,6 +378,17 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>Uma reimaginação do clássico romance de Bram Stoker, esta nova série se passa na década de 1890 e acompanha a história de Drácula (interpretado por Jonathan Rhys Meyers, de The Tudors), um homem que vive uma vida dupla em Londres: ele diz ser Allen Grayson, um empresário americano interessado em trazer a ciência moderna para a sociedade vitoriana; mas, na verdade, ele quer se vingar de quem lhe fez mal há centenas de anos. No entanto, seus planos podem ir por água abaixo quando ele conhece Mina Murray (interpretada por Jessica DeGouw, de Arrow), uma garota que parece ser a reencarnação de sua falecida esposa.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] FALCÃO E O SOLDADO INVERNAL  1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KKTEMQP2TZVMS2VWWGPTCMMM7MXXAXOH</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3G5SSAOTUHKWYCIAUEMKMKXGNYFN6Z7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQSUUDVMLMVZFAZZL7763GFY475PH3IP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aecNDDnOQOON4t4Bd3KavX6Wv9o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nessa minissérie de seis episódios, após se tornar o novo Capitão América, Sam Wilson e Bucky Barnes partem pelo mundo em uma aventura que testará suas habilidades... e sua paciência.</info>
+</item>
+
+
 
 
 
