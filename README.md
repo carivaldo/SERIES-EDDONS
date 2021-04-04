@@ -2,9 +2,6 @@
 SERIES - EDDONS
 
 <item>
-<name>[COLOR silver][B] LÁ CASA DE PAPEL  [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://www.animeserie.com/product_images/n/220/la_casa_de_papel__27709_zoom.jpg</thumbnail>
-<item>
 <title>[COLOR silver][B] LÁ CASA DE PAPEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353CEB641BE8EF14AFE549DF77A0C2E6DC880252$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f7b4c640e7319c42566b0ca9f3f1fb72df0c13$nome=</link>
@@ -38,9 +35,6 @@ SERIES - EDDONS
 <info> La Casa de Papel 4ª Temporada Torrent Dublado – A quarta temporada de La Casa de Papel começa frenética. O Professor acredita que Lisboa foi morta. Rio e Tóquio acabam explodindo um tanque do exército. Enquanto isso, Nairóbi está lutando para sobreviver. Para intensificar as coisas, um novo inimigo está surgindo, e irá dificultar os planos do grupo de assaltantes.</info>
 </item>
 
-<item>
-<name>[COLOR silver][B]  THE GOOD  DOCTOR  [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://s2.glbimg.com/22-6Pz2iDFS70TJcu9QH7grEQvg=/362x536/https://s2.glbimg.com/5hzAVvW2Dgz6PV7Mll3AByhl-v0=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2020/I/s/Ed6nQBQPOmHRSf3gwN3w/2019-688-the-good-doctor-o-bom-doutor-poster.jpg</thumbnail>
 <item>
 <title>[COLOR silver][B] THE GOOD  DOCTOR 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be7950f7485a5e7d48d92aa8a5de90ddc033f172</link>
@@ -117,9 +111,6 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 </item>
 
 <item>
-<name>[COLOR silver][B] COBRA KAI  [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://decider.com/wp-content/uploads/2018/05/cobra.jpg?quality=80&strip=all&w=646&h=431&crop=1</thumbnail>
-<item>
 <title>[COLOR silver][B] COBRA KAI - 1° EP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36f6dcd9dee522460774e197a325e355b9fc6235&dn=COMANDO.TO%20-%20Cobra%20Kai%201%c2%aa%20Temporada%20Completa%202018%20%5b1080p%5d%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wxq2xX5VL._AC_SY445_.jpg</thumbnail>
@@ -144,9 +135,6 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawrence (William Zabka), a rivalidade desses dois ressurge quando Lawrence decide retomar sua vida por meio do infame dojo Cobra Kai. Enquanto ele busca redenção, o agora bem-sucedido Daniel, por sua vez, tenta superar os desafios de sua vida sem a ajuda do seu mentor, o Sr. Miyagi.</info>
 </item>
 
-<item>
-<name>[COLOR silver][B] STAR WARS - O MANDALORIANO  [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://cinepop.com.br/wp-content/uploads/2020/10/o-mandaloriano-01-1.jpg</thumbnail>
 <item>
 <title>[COLOR silver][B] STAR WARS - O MANDALORIANO TEMPORADA 1° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c&dn=O%20Mandaloriano%20-%20Star%20Wars%202019%20-%20S01E01%20(1080p)%20LAPUMiA&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a83%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$nome=</link>
@@ -177,9 +165,6 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info> O Mandaloriano e a Criança continuam sua jornada, enfrentando inimigos e reunindo aliados enquanto fazem seu caminho através de uma galáxia perigosa na era tumultuada após o colapso do Império Galáctico.</info>
 </item> 
 
-<item>
-<name>[COLOR silver][B]   VIKINGS    [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/u3oInkxcnNV2pZQbkFY3ovHYExR.jpg</thumbnail>
 <item>
 <title>[COLOR silver][B] VIKINGS  1° TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38A22178EF98266DD55FF4846C8D445E2D095598&dn=Vikings%202013%201%c2%aa%20Temporada%20Completa%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
@@ -256,9 +241,6 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
-<name>[COLOR silver][B]  THE STAND - DUBLADO  [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
-<item>
 <title>[COLOR silver][B]  THE STAND  1º  TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d056ff60b345c1efbbb602cf67193f667d95f2$nome=</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a034d63857a8e74002a1bf30f3b640018d71d6$nome=</link>
@@ -270,9 +252,6 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info> Após um erro de computação no Departamento de Defesa, um vírus é liberado, e um milhão de contatos casuais formam uma cadeia de morte: é assim que o mundo acaba. O que surge em seu lugar é um ambiente árido, sem instituições e esvaziado de 99% da população. É um lugar onde sobreviventes em pânico escolhem seus lados ou são escolhidos. Os bons se apoiam nos ombros frágeis de Mãe Abigail (Whoopi Goldberg), com seus cento e oito anos de idade, enquanto todo o mal é incorporado por um indivíduo de poderes indizíveis: Randall Flagg (Alexander Skarsgård), o homem das trevas.</info>
 </item>
  
-<item>
-<name>[COLOR silver][B] CARCEREIROS NACIONAL [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/mEHSZIyKzyRsirTYORXU92bxuki.jpg</thumbnail>
 <item>
 <title>[COLOR silver][B] CARCEREIROS  1º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452A4525D42D0D1BC4D1584556B0898D9B14923C</link>
