@@ -149,14 +149,14 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 
 <item>
 <title>[COLOR silver][B] STAR WARS - O MANDALORIANO TEMPORADA 2° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CCD0D6986ACCEAEC40EA0B5A4C516ACD51B87CA$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E77862F106D7D0980F1058F4BF1D682E5A42330$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337DD0978A74717B27B7B1D4194A29F5E7BFEF8F$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CCD0D6986ACCEAEC40EA0B5A4C516ACD51B87CA$nome=STAR WARS EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E77862F106D7D0980F1058F4BF1D682E5A42330$nome=STAR WARS EP2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$nome=STAR WARS EP3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337DD0978A74717B27B7B1D4194A29F5E7BFEF8F$nome=STAR WARS EP4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0$nome=STAR WARS EP5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$nome=STAR WARS EP6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$nome=STAR WARS EP7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$nome=STAR WARS EP8</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8LHNnMA9xP6sUhkma0aOv5RWtzo.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O Mandaloriano e a Criança continuam sua jornada, enfrentando inimigos e reunindo aliados enquanto fazem seu caminho através de uma galáxia perigosa na era tumultuada após o colapso do Império Galáctico.</info>
