@@ -294,12 +294,12 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 
 <item>
 <title>[COLOR silver][B]  SEE 1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066$nome=1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb$nome=2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391$nome=3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa$nome=4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96$nome=5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049$nome=6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066$nome=SEE EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb$nome=SEE EP2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391$nome=SEE EP3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa$nome=SEE EP4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96$nome=SEE EP5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049$nome=SEE EP6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa$nome=7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -332,10 +332,10 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 
 <item>
 <title>[COLOR silver][B] SANDY &  JUNIOR - 1º TEMP. COLEGIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA3A3F02E7D022B9620D96C015A96F1591440164$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDFCE2D336093D42F0175EA6A224EC6F789933CA$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80E3FBE8AA6AC9712E32FC71E1B4C3769434A0B$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FB3A8013924417EC52106FF671D13B7B47B0F30$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA3A3F02E7D022B9620D96C015A96F1591440164$nome=SANDY & JUNIOR EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDFCE2D336093D42F0175EA6A224EC6F789933CA$nome=SANDY & JUNIOR EP2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F80E3FBE8AA6AC9712E32FC71E1B4C3769434A0B$nome=SANDY & JUNIOR EP3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2FB3A8013924417EC52106FF671D13B7B47B0F30$nome=SANDY & JUNIOR EP4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/14/11/11/19/12/097640.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O cenário deixa de ser o colégio Cema, e as histórias passam a se desenvolver num condomínio na cidade do Rio de Janeiro. Na nova fase, Sandy e Junior estão na universidade ela faz psicologia; e ele, música - são artistas famosos filhos de Xororó e Noely, como na vida real. Agora os personagens são quase adultos, têm sua própria casa e cuidam da própria vida. O programa aborda as temáticas do universo jovem, como conflitos de geração, divergências entre grupos de amigos, romances e muita música.</info>
