@@ -241,13 +241,12 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
-<item>
 <title>[COLOR silver][B]  THE STAND  1º  TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d056ff60b345c1efbbb602cf67193f667d95f2$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a034d63857a8e74002a1bf30f3b640018d71d6$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28940e26048ed18a549603c09b9942dcddfc835c$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd81d2593e401ad19e4052f78b312f45dc5bb72$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4a206bd2ba7dd5c32d0475d4b2d709974899149$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d056ff60b345c1efbbb602cf67193f667d95f2$nome=1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9a034d63857a8e74002a1bf30f3b640018d71d6$nome=2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28940e26048ed18a549603c09b9942dcddfc835c$nome=3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecd81d2593e401ad19e4052f78b312f45dc5bb72$nome=4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4a206bd2ba7dd5c32d0475d4b2d709974899149$nome=5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Após um erro de computação no Departamento de Defesa, um vírus é liberado, e um milhão de contatos casuais formam uma cadeia de morte: é assim que o mundo acaba. O que surge em seu lugar é um ambiente árido, sem instituições e esvaziado de 99% da população. É um lugar onde sobreviventes em pânico escolhem seus lados ou são escolhidos. Os bons se apoiam nos ombros frágeis de Mãe Abigail (Whoopi Goldberg), com seus cento e oito anos de idade, enquanto todo o mal é incorporado por um indivíduo de poderes indizíveis: Randall Flagg (Alexander Skarsgård), o homem das trevas.</info>
@@ -294,15 +293,14 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
-<item>
 <title>[COLOR silver][B]  SEE 1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049$nome=</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa$nome=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066$nome=1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb$nome=2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391$nome=3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef808c8819a3bf2bdf8bb0eb4456e7d51c58f4aa$nome=4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96$nome=5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049$nome=6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa$nome=7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info>
