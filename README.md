@@ -386,7 +386,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/aecNDDnOQOON4t4Bd3KavX6Wv9o.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nessa minissérie de seis episódios, após se tornar o novo Capitão América, Sam Wilson e Bucky Barnes partem pelo mundo em uma aventura que testará suas habilidades... e sua paciência.</info>
-</item>
+</item> 
 
 
 
