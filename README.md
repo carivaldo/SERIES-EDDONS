@@ -215,6 +215,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56108bc8311657a36fad4fb8d784ec12cc47ae6$nome=VIKINGS EP17</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e4b9f35e3ed80674584f212f9d9eee29f1df14$nome=VIKIBGS EP18</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3$nome=VIKINGS EP19</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3$nome=VIKINGS EP20</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1rb9wNMrzQVet0YVgCuIyIAuKuB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os Vikings estão de volta nessa quinta temporada completa, dublada, dual áudio e legendada da série Vikings. Ivar, o Desossado reivindica sua liderança sobre o Grande Exército Heathen, enquanto Lagertha reina como Rainha de Kattegat. O lendário Viking Rollo retorna a Kattegat enquanto a divisão entre a família Lothbrok culmina e os filhos de Ragnar se confrontam para dominar o mundo. A tão esperada batalha termina com uma vitória estratégica de Ivar, que tem uma vingança preparada aos seus traidores com um objetivo direto: Lagertha. Por sua vez, Lagertha se isola com seu filho Bjorn e também prepara uma grande vingança! Kattegat não terminou de queimar.</info>
