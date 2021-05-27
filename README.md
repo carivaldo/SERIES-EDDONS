@@ -196,26 +196,26 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 
 <item>
 <title>[COLOR silver][B]  VIKINGS  5º TEMPORADA  [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC53A63A6D86ACD3FBEF2FA32B769BD9EF6FECCC$nome=VIKINGS EP1-2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC53A63A6D86ACD3FBEF2FA32B769BD9EF6FECCC$nome=VIKINGS EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E399C74E7D9848E40D7736E7C4A0BA33F7414A03$nome=VIKINGS EP2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E399C74E7D9848E40D7736E7C4A0BA33F7414A03$nome=VIKINGS EP3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E399C74E7D9848E40D7736E7C4A0BA33F7414A03$nome=VIKINGS EP4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F79A52096FDF746CB1089B0E7A5857D66C27E9A$nome=VIKINGS EP5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967669A12B1378F4CCCEC28084ACEB8EC84794B6$nome=VIKINGS EP6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F79A52096FDF746CB1089B0E7A5857D66C27E9A$nome=VIKINGS EP4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967669A12B1378F4CCCEC28084ACEB8EC84794B6$nome=VIKINGS EP5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144B3B3103BFB796FDD8D1F83C2E49B54406D$nome=VIKINGS EP6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144B3B3103BFB796FDD8D1F83C2E49B54406D$nome=VIKINGS EP7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144B3B3103BFB796FDD8D1F83C2E49B54406D$nome=VIKINGS EP8</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7DA30B6BC560E9B21EF1A6B4322553CA130CE72$nome=VIKINGS EP9</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D31E38A08A6F22130BE66775DF5C1DA60A44CCD$nome=VIKINGS EP10</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f5d7ba1b4a3bacb22c0f5d81ab2e2e8d46df61$nome=VIKINGS EP11</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27161435aa54c3476c76aa123d10b6c4ab4e200b$nome=VIKINGS EP12</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D59C99D2A89CC52B6F980390ABAA2BE2B7D45D24$nome=VIKINGS EP13</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8146cc55cad81cc8d7c9a344d37a126003cab8$nome=VIKINGS EP14</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7488aa111f29e8b66c33c9b77503e0b34d4b03d$nome=VIKINGS EP15</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d22f52c25d45769dbcd49ce10e14399bfe47c6e3$nome=VIKINGS EP16</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73A5C631D13E649EB841B05EC2A99FAF9E5DB9AC$nome=VIKINGS EP17</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56108bc8311657a36fad4fb8d784ec12cc47ae6$nome=VIKINGS EP18</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e4b9f35e3ed80674584f212f9d9eee29f1df14$nome=VIKIBGS EP19</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7DA30B6BC560E9B21EF1A6B4322553CA130CE72$nome=VIKINGS EP8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D31E38A08A6F22130BE66775DF5C1DA60A44CCD$nome=VIKINGS EP9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f5d7ba1b4a3bacb22c0f5d81ab2e2e8d46df61$nome=VIKINGS EP10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27161435aa54c3476c76aa123d10b6c4ab4e200b$nome=VIKINGS EP11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D59C99D2A89CC52B6F980390ABAA2BE2B7D45D24$nome=VIKINGS EP12</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d8146cc55cad81cc8d7c9a344d37a126003cab8$nome=VIKINGS EP13</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7488aa111f29e8b66c33c9b77503e0b34d4b03d$nome=VIKINGS EP14</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d22f52c25d45769dbcd49ce10e14399bfe47c6e3$nome=VIKINGS EP15</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73A5C631D13E649EB841B05EC2A99FAF9E5DB9AC$nome=VIKINGS EP16</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b56108bc8311657a36fad4fb8d784ec12cc47ae6$nome=VIKINGS EP17</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e4b9f35e3ed80674584f212f9d9eee29f1df14$nome=VIKIBGS EP18</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3$nome=VIKINGS EP19</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3$nome=VIKINGS EP20</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2785da936f7555fcc0c2c711de1f1826fa3bdf3$nome=VIKINGS EP21</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1rb9wNMrzQVet0YVgCuIyIAuKuB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Os Vikings estão de volta nessa quinta temporada completa, dublada, dual áudio e legendada da série Vikings. Ivar, o Desossado reivindica sua liderança sobre o Grande Exército Heathen, enquanto Lagertha reina como Rainha de Kattegat. O lendário Viking Rollo retorna a Kattegat enquanto a divisão entre a família Lothbrok culmina e os filhos de Ragnar se confrontam para dominar o mundo. A tão esperada batalha termina com uma vitória estratégica de Ivar, que tem uma vingança preparada aos seus traidores com um objetivo direto: Lagertha. Por sua vez, Lagertha se isola com seu filho Bjorn e também prepara uma grande vingança! Kattegat não terminou de queimar.</info>
