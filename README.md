@@ -202,7 +202,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F79A52096FDF746CB1089B0E7A5857D66C27E9A$nome=VIKINGS EP4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967669A12B1378F4CCCEC28084ACEB8EC84794B6$nome=VIKINGS EP5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521144B3B3103BFB796FDD8D1F83C2E49B54406D$nome=VIKINGS EP6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B123F21F50057AABED1080D9809F5E3168958A84nome=VIKINGS EP7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9B123F21F50057AABED1080D9809F5E3168958A84$nome=VIKINGS EP7</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7DA30B6BC560E9B21EF1A6B4322553CA130CE72$nome=VIKINGS EP8</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D31E38A08A6F22130BE66775DF5C1DA60A44CCD$nome=VIKINGS EP9</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42f5d7ba1b4a3bacb22c0f5d81ab2e2e8d46df61$nome=VIKINGS EP10</link>
