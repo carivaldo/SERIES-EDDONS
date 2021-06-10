@@ -391,6 +391,17 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>Depois de quase um século mantendo a humanidade segura, a primeira geração de super-heróis do mundo deve confiar nos seus filhos para continuar o legado. Mas as tensões aumentam à medida que os jovens super-heróis, famintos por provar seu valor, lutam para viver de acordo com a lendária reputação pública de seus pais - e exigentes padrões pessoais. Adaptação da HQ de Mark Millar e Frank Quitely.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] LOKI - O REI DA TRAPAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9310c8d2bd0433524209f5b276ab505478ae0c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rX1wQMTKFqF0gvZyS0DDQqgnQPB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situado após os eventos de "Vingadores: Ultimato", a série acompanha a versão alternativa de Loki (Tom Hiddleston) que escapou com o Tesseract em 2012, e aterrissou no meio de um thriller criminal que ocorrerá em várias épocas e dimensões diferentes. Se isso parece confuso, não se preocupe: Loki estará tão confuso quanto você. </info>
+</item>
+
+
+
+
 
 
 
