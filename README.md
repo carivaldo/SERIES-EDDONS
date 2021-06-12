@@ -397,7 +397,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/rX1wQMTKFqF0gvZyS0DDQqgnQPB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Situado após os eventos de "Vingadores: Ultimato", a série acompanha a versão alternativa de Loki (Tom Hiddleston) que escapou com o Tesseract em 2012, e aterrissou no meio de um thriller criminal que ocorrerá em várias épocas e dimensões diferentes. Se isso parece confuso, não se preocupe: Loki estará tão confuso quanto você. </info>
-</item>
+</item> 
 
 
 
