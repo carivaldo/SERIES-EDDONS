@@ -397,7 +397,16 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/rX1wQMTKFqF0gvZyS0DDQqgnQPB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Situado após os eventos de "Vingadores: Ultimato", a série acompanha a versão alternativa de Loki (Tom Hiddleston) que escapou com o Tesseract em 2012, e aterrissou no meio de um thriller criminal que ocorrerá em várias épocas e dimensões diferentes. Se isso parece confuso, não se preocupe: Loki estará tão confuso quanto você. </info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] CARNIVAL ROW [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D7F6410B26235A73A8D1714FB75E0C3AD187E6E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4eoa3tG8xmYNWl8LzF5WKDA2SEz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um serial killer inicia uma onda de crimes a criaturas mágicas na vitoriana Burgue, iniciando uma conturbada investigação que transforma o detetive do caso no principal suspeito dos terríveis crimes. </info>
+</item>
+
 
 
 
