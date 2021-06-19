@@ -61,6 +61,14 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 </item>
 
 <item>
+<title>[COLOR silver][B] THE GOOD DOCTOR  4°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e4221e1275d2f55718b3d5a52515fa33f361e8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z1K4mJwISETia59rrnMdXxzoSrZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Dr. Shaun Murphy continua utilizando o seu extraordinário talento médico para salvar vidas no Hospital St. Bonaventure. Enquanto sua amizade com os colegas de trabalho se torna mais forte, Shaun também precisa lidar com o amor, agora que ele e Lea finalmente se tornaram um casal. </info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Mr. ROBOT  1°  TEMPORADA[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C4F1D4C38A428B8E3ADC18DD598E5BB2109EBA6</link>
 <thumbnail>https://i.pinimg.com/originals/b2/82/80/b28280f96b0a08cb113111d16786935f.jpg</thumbnail>
