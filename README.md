@@ -37,7 +37,7 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] THE GOOD  DOCTOR 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be7950f7485a5e7d48d92aa8a5de90ddc033f172</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99cfe5788683a446353109943f5fa76efb82fa7e</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61-7hn1OjYL._SL1143_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Numa ação inédita, a Globo escalou os dois primeiros episódios da série “The Good Doctor”, que leva o subtítulo de “O Bom Doutor” para “Tela Quente” do dia 27/08/2018, que de acordo com as chamadas, será especial, mas aqui no Comando Filmes, você tem a temporada completa. Na série, um jovem cirurgião com autismo e síndrome de Savant é recrutado para a unidade cirúrgica pediátrica de um hospital de prestígio. A questão surgirá: uma pessoa que não tem a capacidade de se relacionar com as pessoas realmente salvar suas vidas?</info>
@@ -45,7 +45,7 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] THE GOOD DOCTOR  2°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8FFF126BDB3C15EB6C47C013A163768800FB907&dn=%7bWWW.BLUDV.TV%7d%20The%20Good%20Doctor%20-%202%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8FFF126BDB3C15EB6C47C013A163768800FB907</link>
 <thumbnail>https://www.sanity.com.au/media/Images/fullimage/514407/SDC_2422055_2019-05-6--00-18-56.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O Bom Doutor (The Good Doctor) segunda temporada completa dublada, dual áudio e legendada da série médica que está sendo exibida atualmente pela Rede Globo. Um jovem cirurgião diagnosticado com savantismo, um distúrbio psíquico raro, é recrutado para trabalhar na ala pediátrica de um hospital de prestígio. Apesar do seu incrível conhecimento na área da medicina, esse médico não consegue se relacionar com o mundo à sua volta. Resta saber se esta dificuldade será um problema na hora de salvar vidas.</info>
