@@ -452,6 +452,15 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>A série documental conta a história do assassinato e esquartejamento de Marcos Matsunaga, morto pela esposa Elize Matsunaga em 2012. A trama revisita o passado de Elize, de sua infância até o conturbado relacionamento com o empresário. A produção inclui detalhes como tentativas de acobertamento do crime, passando pela confissão, prisão, julgamento e saídas temporárias.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] SUPERMAN & LÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PNZO7CYPLB5AECO5BHPANCXOYQD6X4H5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida e a rotina de Superman e Lois Lane como pais e repórteres após a Crise. Clark Kent (Tyler Hoechlin), o Superman, maior herói do mundo, e sua companheira Lois Lane (Elizabeth Tulloch), uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
+</item>
+
+
 
 
 
