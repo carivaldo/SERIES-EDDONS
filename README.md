@@ -460,6 +460,16 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <info>A vida e a rotina de Superman e Lois Lane como pais e repórteres após a Crise. Clark Kent (Tyler Hoechlin), o Superman, maior herói do mundo, e sua companheira Lois Lane (Elizabeth Tulloch), uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] COMO VENDER DROGAS ONLINE 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:xt=urn:btih:TEDQM4TG63TIOF32Q5VQE4KSW2HX45AK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nweYS5aI1qdeaGBEMx4dMWSbl9X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A série conta a história de um adolescente que começa a vender drogas pela internet e se torna um dos maiores traficantes da Europa.</info>
+</item>
+
+
+
 
 
 
