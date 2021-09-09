@@ -307,7 +307,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
-<title>[COLOR silver][B]  SEE 1° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]  SEE 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50ba5e7d0dfd1ab72052fab4b8941b120ded6066$nome=SEE EP1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823632515f7b7922c5a0e178521d847df7e409bb$nome=SEE EP2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bef0e59e89f80672a9f803566887d015e5de391$nome=SEE EP3</link>
@@ -321,8 +321,9 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
-<title>[COLOR silver][B]  SEE 2° TEMP. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]  SEE 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WSVCDCY467VEHEOKNKBHIZ7X6OJUI4XR$nome=SEE EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278$nome=SEE EP2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e8kvIPkSrmcqTKCrXO8aUY5uF0l.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info>
