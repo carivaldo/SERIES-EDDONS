@@ -326,6 +326,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278$nome=SEE EP2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c96aaee73920bfbcdd08f243c23be19008c115$nome=SEE EP3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GJZKFQGIVVM7YRASEADMOCKQZUADXBWJ$nome=SEE EP4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d3ce5f20295801e08bd27e2304d883b3054248$nome=SEE EP5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e8kvIPkSrmcqTKCrXO8aUY5uF0l.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Num futuro distante, a raça humana perdeu o sentido da visão e a sociedade precisou se adaptar para interagir, construir, caçar e sobreviver. Tudo muda quando dois gêmeos com visão nascem.</info>
