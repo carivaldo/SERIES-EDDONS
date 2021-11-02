@@ -77,6 +77,14 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 </item>
 
 <item>
+<title>[COLOR silver][B] THE GOOD DOCTOR  5°  TEMPORADA BREVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jCAsFfoBnJSmC8af8BhUR5xx6X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dr. Shaun Murphy se prepara para o seu quinto e último ano como residente no San Jose St. Bonaventure Hospital e, ao mesmo tempo, para o seu casamento com a sua namorada Lea.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Mr. ROBOT  1°  TEMPORADA[/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C4F1D4C38A428B8E3ADC18DD598E5BB2109EBA6</link>
 <thumbnail>https://i.pinimg.com/originals/b2/82/80/b28280f96b0a08cb113111d16786935f.jpg</thumbnail>
