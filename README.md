@@ -1,6 +1,17 @@
 # SERIES---EDDONS
 SERIES - EDDONS
 
+
+
+
+<item>
+<title>[COLOR silver][B]  Dr. BRAIN NEURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91ca2220b776712c48edeebdc9f679806e83cf8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mAc84IA2FS6syMEMnElGI1Ja23R.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um thriller de mistério médico, que conta a história de um gênio neurologista que consegue acessar os cérebros de pessoas mortas. ✩ Emissora: AppleTV✩ Episódios: 6✩ Duração: 70 minutos</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LÁ CASA DE PAPEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353CEB641BE8EF14AFE549DF77A0C2E6DC880252$nome=LÁ CASA DE PAPEL EP1</link>
