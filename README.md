@@ -24,7 +24,7 @@ SERIES - EDDONS
 <item>
 <title>[COLOR silver][B] LÁ CASA DE PAPEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353CEB641BE8EF14AFE549DF77A0C2E6DC880252$nome=LÁ CASA DE PAPEL EP1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f7b4c640e7319c42566b0ca9f3f1fb72df0c13$nome=LÁ CASA DE PAPEL EP2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f7b4c640e7319c42566b0ca9f3f1fb72df0c13$nome=LÁ CASA DE PAPEL EP2</link> 
 <thumbnail>https://www.themoviedb.org/t/p/original/yf5HNZF1LFW5AMbjQuaZlrzU1Iu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Na Série Torrent La Casa de Papel 1ª e 2ª Temporada (2017-2018) 720p e 1080p Dublado Download. Um grupo de ladrões muito peculiar assalta uma Fábrica de Moeda e Timbre para realizar o assalto mais perfeito na história da Espanha e levar para casa 2.400 milhões de euros. Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info>
