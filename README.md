@@ -88,7 +88,7 @@ SERIES - EDDONS
 </item> 
 
 <item>
-<title>[COLOR silver][B] THE GOOD DOCTOR  2°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] THE GOOD DOCTOR  2°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A8FFF126BDB3C15EB6C47C013A163768800FB907</link>
 <thumbnail>https://www.sanity.com.au/media/Images/fullimage/514407/SDC_2422055_2019-05-6--00-18-56.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
