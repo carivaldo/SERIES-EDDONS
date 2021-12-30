@@ -6,6 +6,14 @@ SERIES - EDDONS
 
 
 <item>
+<title>[COLOR silver][B] O LIVRO DE BOBA FETT-O MANDALORIANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4QIKNGKS3W4K25L7SPMIWIQXTZLLOB7M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3JYcSHoaOuvEM6gLQkz3VHRVXpH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma emocionante aventura Star Wars que encontra o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba, o Hutt e seu sindicato do crime.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VERDADES SECRETAS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D57YM6KP5YKEBRPTK3Q744A4EUIHZPUY$nome=EP 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D599F0DEB3B650AF1E3948D9CA02AAEC9C56A761$nome=EP 2</link>
