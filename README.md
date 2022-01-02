@@ -81,8 +81,7 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B]  LÁ CASA DE PAPEL 5° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X4II6HCQFAPW63K5Q2HGH5UXYVAVV3FP$nome=LÁ CASA DE PAPEL PARTE 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EADBWD7AM6VCWQO7PC7C25WENZEUIHNH$nome=LÁ CASA DE PAPEL PARTE 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KDBK5CB6NIRIHTHR7SWQ3COVONPVPZZW</link>
 <thumbnail>https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2021/08/pt-br-lcdp-s5-main-vertical-rgb-pre-2.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Já se passaram 100 horas desde que a missão no Banco de Espanha começou. Apesar do grupo de assaltantes conseguir resgatar Lisboa (Itziar Ituño), o clima é de tensão e luto após a perda de Nairóbi (Alba Flores). Para piorar, o Professor (Álvaro Morte) é capturado por Sierra (Najwa Nimri) e, pela primeira vez em sua vida, não tem um plano de fuga. Por fim, os ladrões terão que enfrentar seu pior pesadelo: uma guerra contra o exército.</info>
