@@ -202,6 +202,14 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 </item>
 
 <item>
+<title>[COLOR silver][B] COBRA KAI - 4° TEMPORADA. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KDBK5CB6NIRIHTHR7SWQ3COVONPVPZZW</link>
+<thumbnail>https://sm.ign.com/ign_br/screenshot/default/cobra-kai-season-3-what-we-know-so-far_s779.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sequência televisiva da franquia Karatê Kid, Cobra Kai volta ainda em 2021 para a Netflix. A plataforma anunciou em suas redes sociais que a quarta temporada da série chegará em dezembro, ainda sem um dia específico</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAR WARS - O MANDALORIANO TEMPORADA 1° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c$nome=STAR WARS EP1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bed3a0f5ce3dcf4798f586e4eff145d0d55185$nome=STAR WARS EP2</link>
