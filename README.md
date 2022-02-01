@@ -555,6 +555,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <title>[COLOR silver][B] SUPERMAN & LÓIS 2 TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3073692865fe41b858e2cd46c70df5d6015a8856$nome=SUPERMAN & LÓS EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea3df73c297b39602d8bfe0e2e5936f96f88f4a$nome=SUPERMAN & LÓS EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1922d7fd09394d6da4313cc45370b036968e2bd2$nome=SUPERMAN & LÓS EP.3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg</fanart>
 <info>A vida e a rotina de Superman e Lois Lane como pais e repórteres após a Crise. Clark Kent (Tyler Hoechlin), o Superman, maior herói do mundo, e sua companheira Lois Lane (Elizabeth Tulloch), uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info>
