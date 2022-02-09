@@ -13,6 +13,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7163cf6c775b793df7d396cfff2573dba8640d59$nome=EP 4 O LIVRO DE BOBA FETT-O MANDALORIANO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c3c6f79f58967dd71f73eb99c59c29718bdbb9c$nome=EP 5 O LIVRO DE BOBA FETT-O MANDALORIANO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e60c6fadfafd8bb9e9cbeba78139f20f60bad56$nome=EP 6 O LIVRO DE BOBA FETT-O MANDALORIANO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29c4d7cb24a94ae470b21a6ee7a6d52e0325ac6$nome=EP 7 O LIVRO DE BOBA FETT-O MANDALORIANO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3JYcSHoaOuvEM6gLQkz3VHRVXpH.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/t1bABypVV8TKj1wdOkK18iAoKi5.jpg</fanart>
 <info>Uma emocionante aventura Star Wars que encontra o lendário caçador de recompensas Boba Fett e o mercenário Fennec Shand explorando o submundo da Galáxia quando retornam às areias de Tatooine para reivindicar o território antes governado por Jabba, o Hutt e seu sindicato do crime.</info>
