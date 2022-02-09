@@ -579,7 +579,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Anos antes de o Super-Homem se tornar a lenda que o mundo inteiro conhece, a família El era envergonhada e excluída da sociedade. O drama acompanha o avô do Super-Homem, que aos poucos transforma um planeta em desordem e crise em um lugar com igualdade e esperança.</info>
-</item>
+</item> 
 
 
 
