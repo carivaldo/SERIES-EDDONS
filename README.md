@@ -5,8 +5,8 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] O CAVALEIRO DA LUA - 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=O CAVALEIRO DA LUA EP 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2448073ac35654f3c77fb59f6e6d9ad6b348ed7bnome=O CAVALEIRO DA LUA EP 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=EP 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2448073ac35654f3c77fb59f6e6d9ad6b348ed7bnome=EP 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bL9BtN4bEVRWINEN80OyFvaZnay.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série acompanha Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector. À medida que os inimigos de Steven/Marc se voltam para eles, ambos devem navegar em suas complexas identidades enquanto mergulham em um mistério mortal entre os poderosos deuses do Egito.</info>
