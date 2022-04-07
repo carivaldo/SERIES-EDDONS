@@ -179,7 +179,7 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 <item>
 <title>[COLOR silver][B] Mr. ROBOT  4° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d807d3b49483395164723924e80e9b744b03045</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81FV5W-6XtL._SY445_.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/folQZU0UIcCTFthHSZGr0VTnVgH.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A quarta temporada de "Mr. Robot" é a última da série.</info>
 </item>
