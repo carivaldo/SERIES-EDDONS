@@ -173,7 +173,15 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:884C039ABBF7471FE891EF3ADBCDFC929360EB08</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/81FV5W-6XtL._SY445_.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Mr. Bobot: Sociedade Hacker terceira temporada dublada completa. Elliot (Rami Malek) é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê numa encruzilhada quando o líder (Christian Slater) de um misterioso grupo de hacker o recruta para destruir a firma que ele é pago para proteger. Motivado pelas suas crenças pessoais, ele luta para resistir à chance de destruir os CEOs da multinacional que ele acredita estarem controlando - e destruindo - o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] Mr. ROBOT  4° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d807d3b49483395164723924e80e9b744b03045</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81FV5W-6XtL._SY445_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A quarta temporada de "Mr. Robot" é a última da série.</info>
 </item>
 
 <item>
