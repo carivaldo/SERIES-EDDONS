@@ -16,6 +16,7 @@ SERIES - EDDONS
 <title>[COLOR silver][B] SÉRIE HALO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9f5a128eee8ddd467d7b6e63cfd241bcf3c8bb4$nome=HALO EP 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb0c92a445e920e802aab261e8e2bb6bf10eebaf$nome=HALO EP 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:038d53451d57796dc2b918617c3986705ff8f4e7$nome=HALO EP 3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oS3Fzf3eXSeK9L6DZYypLfa0fho.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant.</info>
