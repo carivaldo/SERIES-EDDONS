@@ -10,6 +10,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MR47LIDCXB4MLLEGKC3QDUQFIRN6JBVV$nome=EP 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QQD24Q6VPIPPDFSTBWRTLVFKWJXJ5MKQ$nome=EP 4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e72c070fa13e2689102c917537334ceaadae646$nome=EP 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b72ef407d05f76134209fb21401c7bad222f107$nome=EP 6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bL9BtN4bEVRWINEN80OyFvaZnay.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A série acompanha Steven Grant, um gentil e educado funcionário de uma loja de souvenir, que é atormentado com apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e divide o corpo com o mercenário Marc Spector. À medida que os inimigos de Steven/Marc se voltam para eles, ambos devem navegar em suas complexas identidades enquanto mergulham em um mistério mortal entre os poderosos deuses do Egito.</info>
@@ -23,6 +24,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb3a178f2498037bf9c4456fef9d94d74972dd6a$nome=HALO EP 4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:757b73ca9f54ce0d08f84346f8237f7c40022b25$nome=HALO EP 5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b4bfa67d6711646dedebc369b7bef01c72e5f4$nome=HALO EP 6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c772f1100eac11cd0def896b891ebf429260c14d$nome=HALO EP 7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oS3Fzf3eXSeK9L6DZYypLfa0fho.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant.</info>
