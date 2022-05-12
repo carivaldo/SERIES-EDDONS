@@ -25,6 +25,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:757b73ca9f54ce0d08f84346f8237f7c40022b25$nome=HALO EP 5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b4bfa67d6711646dedebc369b7bef01c72e5f4$nome=HALO EP 6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c772f1100eac11cd0def896b891ebf429260c14d$nome=HALO EP 7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:360e31997cb715ad28c3024c3a10275412c734b0$nome=HALO EP 8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oS3Fzf3eXSeK9L6DZYypLfa0fho.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant.</info>
