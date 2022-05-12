@@ -75,7 +75,7 @@ SERIES - EDDONS
 <thumbnail>https://www.themoviedb.org/t/p/original/mAc84IA2FS6syMEMnElGI1Ja23R.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um thriller de mistério médico, que conta a história de um gênio neurologista que consegue acessar os cérebros de pessoas mortas. ✩ Emissora: AppleTV✩ Episódios: 6✩ Duração: 70 minutos</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] LÁ CASA DE PAPEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</title>
