@@ -154,7 +154,7 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 </item>
 
 <item>
-<title>[COLOR silver][B] THE GOOD DOCTOR  5°  TEMPORADA BREVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] THE GOOD DOCTOR  5°  TEMPORADA DE 1 AO 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5457e6164696bfcfaaa9f5e646495894bd96733f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3o15JgAtHgluFkxH0F6ScdavBbn.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
