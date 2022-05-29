@@ -3,6 +3,17 @@ SERIES - EDDONS
 
 
 
+
+<item>
+<title>[COLOR silver][B] 1° TEMPORADA - OBI-WAN KENOBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4RBQ6Z5FPSN2C6NHWFQZ2RPO7CIVESN$nome=EP 1 & 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X5S6IYBIC4VPQ64TLCXFX3V3OD7M7MXL$nome=EP 1 HD 4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MOQVJSZ42KQA4NUWAOZ7PIBRBDKEEPH6$nome=EP 2 HD 4K</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ieZKR0TbVpSpN0wbs4pK4WYP3Ss.jpg</fanart>
+<info>Dez anos depois dos trágicos eventos de "A Vingança dos Sith", Obi-Wan Kenobi está exilado em Tatooine, protegendo a criança que poderá derrotar o Império e trazer a paz para a galáxia...</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CAVALEIRO DA LUA - 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=EP 1</link>
@@ -22,14 +33,6 @@ SERIES - EDDONS
 <thumbnail>https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quando um buraco imenso se abre misteriosamente em Los Angeles, acaba separando uma família. Quando parte da família se encontra em um mundo primitivo inexplicável, ao lado de estranhos, eles devem trabalhar para sobreviver e descobrir o mistério de onde estão e se há um caminho de volta para casa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] 1° TEMPORADA - OBI-WAN KENOBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4RBQ6Z5FPSN2C6NHWFQZ2RPO7CIVESN</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ieZKR0TbVpSpN0wbs4pK4WYP3Ss.jpg</fanart>
-<info>Dez anos depois dos trágicos eventos de "A Vingança dos Sith", Obi-Wan Kenobi está exilado em Tatooine, protegendo a criança que poderá derrotar o Império e trazer a paz para a galáxia...</info>
 </item>
 
 <item>
