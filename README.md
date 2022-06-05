@@ -79,6 +79,35 @@ SERIES - EDDONS
 </item>
 
 <item>
+<title>[COLOR silver][B] THE BOYS 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F22370237FC1F8ADDE6BDE8883BAFDC172B029BA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e7oHnWqqdC9JRxKCJFfpUaKX66U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE BOYS 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e8b99929f959eefd22ca68efce236140c8c4680$nome=1EP ao 3EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55be5758b40576560b98ba205575f4f1a0c43ad1$nome=4EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f521df169657646010ec5e25a3ab2cfb5ac950d$nome=5EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6255b9373e5e4b90c30799f83bb4bcedcf19e58$nome=6EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b2341c12152346038c7b0574c1ed17494581eb0$nome=7EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c5b733b6f2352d7d12fbb7acf9aae32132a648$nome=8EP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mY7SeH4HFFxW1hiI6cWuwCRKptN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE BOYS 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd434b69dfdd923f9b4a2296f3d2b20e589c84e0$nome=1EP ao 3EP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e7oHnWqqdC9JRxKCJFfpUaKX66U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FAMILIA DINOSSAURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbb2874dbea8d98b00a88ae8fd15556a2bc8897</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uLtY2TpeAsQaBNpSaLmhVxcCZ9K.jpg</thumbnail>
