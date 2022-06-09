@@ -35,7 +35,15 @@ SERIES - EDDONS
 <thumbnail>https://www.themoviedb.org/t/p/original/t6rzMbwNnw6ObRBYds02vrkDuS9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quando um buraco imenso se abre misteriosamente em Los Angeles, acaba separando uma família. Quando parte da família se encontra em um mundo primitivo inexplicável, ao lado de estranhos, eles devem trabalhar para sobreviver e descobrir o mistério de onde estão e se há um caminho de volta para casa.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] MS. MARVEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a331ba3407a88f6b7c36f0b42fe0c3c070d4e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1JCPHrF9RbIO2UigJWIhHNZj6xX.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg</fanart>
+<info>Kamala Khan é uma adolescente muçulmana americana que cresceu em Jersey City. Uma jogadora ávida e uma escritora voraz de fanfics, Kamala é uma mega-fã de super-heróis com uma enorme imaginação, principalmente a Capitã Marvel. No entanto, Kamala se sente invisível tanto em casa quanto na escola isto é, até obter superpoderes como os heróis que ela sempre admirou. A vida fica melhor com super poderes, certo?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SÉRIE HALO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
