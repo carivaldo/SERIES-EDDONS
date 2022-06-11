@@ -6,11 +6,11 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] 1° TEMPORADA - OBI-WAN KENOBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4RBQ6Z5FPSN2C6NHWFQZ2RPO7CIVESN$nome=EP 1 & 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X5S6IYBIC4VPQ64TLCXFX3V3OD7M7MXL$nome=EP 1 HD 4K</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MOQVJSZ42KQA4NUWAOZ7PIBRBDKEEPH6$nome=EP 2 HD 4K</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UHZCDX5Q3GSWZRG22U55ZQ2XN2K7LWTA$nome=EP 3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f40f55ca615ed6207d1c863d76bdb84bcf935bd$nome=EP 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V4RBQ6Z5FPSN2C6NHWFQZ2RPO7CIVESN$nome=EP  OBI-WAN KENOBI 1 & 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X5S6IYBIC4VPQ64TLCXFX3V3OD7M7MXL$nome=EP  OBI-WAN KENOBI 1 HD 4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MOQVJSZ42KQA4NUWAOZ7PIBRBDKEEPH6$nome=EP  OBI-WAN KENOBI 2 HD 4K</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UHZCDX5Q3GSWZRG22U55ZQ2XN2K7LWTA$nome=EP  OBI-WAN KENOBI 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f40f55ca615ed6207d1c863d76bdb84bcf935bd$nome=EP  OBI-WAN KENOBI 4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ieZKR0TbVpSpN0wbs4pK4WYP3Ss.jpg</fanart>
 <info>Dez anos depois dos trágicos eventos de "A Vingança dos Sith", Obi-Wan Kenobi está exilado em Tatooine, protegendo a criança que poderá derrotar o Império e trazer a paz para a galáxia...</info>
@@ -110,7 +110,10 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] THE BOYS 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd434b69dfdd923f9b4a2296f3d2b20e589c84e0$nome=1EP ao 3EP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DHWFAOFOF2CSWY2LYFIUBNS55M5XZUT7$nome=EP THE BOYS 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AIA73AG3LS3YJBNOVOVGR3AX6FPG4MN7$nome=EP THE BOYS 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2VDPTNXAZDAVQOYNARMGHR3FMD3TNTN$nome=EP THE BOYS 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FGUJUPYCXR2OMZEVLF77C72VSXGY6ZMB$nome=EP THE BOYS 4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e7oHnWqqdC9JRxKCJFfpUaKX66U.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
