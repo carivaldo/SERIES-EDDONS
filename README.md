@@ -124,6 +124,7 @@ SERIES - EDDONS
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AIA73AG3LS3YJBNOVOVGR3AX6FPG4MN7$nome=EP THE BOYS 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2VDPTNXAZDAVQOYNARMGHR3FMD3TNTN$nome=EP THE BOYS 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FGUJUPYCXR2OMZEVLF77C72VSXGY6ZMB$nome=EP THE BOYS 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SOFJ4MA7C3NV2ZDGVJDXEGKI2UFRTOTV$nome=EP THE BOYS 5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e7oHnWqqdC9JRxKCJFfpUaKX66U.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na trama, conhecemos um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>
