@@ -3,6 +3,15 @@ SERIES - EDDONS
 
 
 
+<item>
+<title>[COLOR silver][B] DOMINION 1,2,3 TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$nome=BREVE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d932e199f33ff9456631ea6db67f6de38d70fa$nome=2º TEMPORADA</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=BREVE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2rBiS2m5hZbTSxorXQmUcbt2cTU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dominion se passa 25 anos após os eventos mostrados no filme Legion (2010), em um futuro pós-apocalíptico, no qual um exército de anjos de hierarquias mais baixas, reunidos pelo arcanjo Gabriel, travaram uma guerra de poder contra a humanidade. O arcanjo Miguel volta-se contra a sua própria espécie, escolhendo ficar ao lado dos humanos e contra Gabriel. Erguendo-se das cinzas após uma guerra de 25 anos, cidades recentemente fortificadas protegem os humanos sobreviventes.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 1° TEMPORADA - OBI-WAN KENOBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
