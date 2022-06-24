@@ -51,9 +51,10 @@ SERIES - EDDONS
 <title>[COLOR silver][B] MS. MARVEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a331ba3407a88f6b7c36f0b42fe0c3c070d4e2$nome=MS. MARVEL EP. 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P5PKW6VXQXQZ4SWWTVF3Z3PWBD25PYCQ$nome=MS. MARVEL EP. 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1JCPHrF9RbIO2UigJWIhHNZj6xX.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg</fanart>
-<info>Kamala Khan é uma adolescente muçulmana americana que cresceu em Jersey City. Uma jogadora ávida e uma escritora voraz de fanfics, Kamala é uma mega-fã de super-heróis com uma enorme imaginação, principalmente a Capitã Marvel. No entanto, Kamala se sente invisível tanto em casa quanto na escola isto é, até obter superpoderes como os heróis que ela sempre admirou. A vida fica melhor com super poderes, certo?</info>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HYHIA7A7FPS6N2LAHYZRDNWDH6FOMG7L$nome=MS. MARVEL EP. 3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cdkyMYdu8ao26XOBvilNzLneUg1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kamala Khan é uma adolescente muçulmana de Jersey City. Ela adora jogar videogames e escrever fanfictions, além de ser fã de super-heróis e ter uma imaginação sem limites – especialmente quando se trata da Capitã Marvel. Kamala sente que não se encaixa na escola e, às vezes, nem mesmo em casa. Mas um dia ela descobre que tem superpoderes como os heróis que sempre admirou... e a vida fica bem melhor com superpoderes, não é?</info>
 </item>
 
 <item>
