@@ -679,6 +679,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ef5e78b59f400e723176faff92cff5aa701ca0$nome=SUPERMAN & LÓS EP.11</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5792b62fe8c544e54a24b3817d12f659d7312b53$nome=SUPERMAN & LÓS EP.12</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q6IJFOCGC366TUU5B5G5RZQYH2UDKIZG$nome=SUPERMAN & LÓS EP.13</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z2LW5TIAYOX33WM5IF5DY4JQHE3RJQBK$nome=SUPERMAN & LÓS EP.14</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg</fanart>
 <info>A vida e a rotina de Superman e Lois Lane como pais e repórteres após a Crise. Clark Kent (Tyler Hoechlin), o Superman, maior herói do mundo, e sua companheira Lois Lane (Elizabeth Tulloch), uma famosa jornalista, se esforçam para lidar com o estresse e as complexidades cotidianas de serem pais que trabalham na sociedade contemporânea.</info> 
