@@ -38,7 +38,7 @@ SERIES - EDDONS
 <thumbnail>https://www.themoviedb.org/t/p/original/de3AmQ1WdPPG2nSgB00xQeLUFEX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma pequena cidade americana é repentinamente isolada do restante do mundo por uma enorme e indestrutível cúpula transparente.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] UNDER THE DOME 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
