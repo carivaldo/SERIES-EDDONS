@@ -362,7 +362,8 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 
 <item>
 <title>[COLOR silver][B] WESTWORLD  4°  TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f6b2d1df27849c614de9e91350fd90d946a387</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f6b2d1df27849c614de9e91350fd90d946a387$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fef85a8290c45baa089ade6bc08ec29b6acb4c$nome=EP.2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
