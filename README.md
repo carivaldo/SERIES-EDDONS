@@ -300,7 +300,8 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 
 <item>
 <title>[COLOR silver][B] THE GOOD DOCTOR  5°  TEMPORADA DE 1 AO 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5457e6164696bfcfaaa9f5e646495894bd96733f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5457e6164696bfcfaaa9f5e646495894bd96733f$nome=THE GOOD DOCTOR 1 AO 7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IIE6XJCS7DVWAE5B6CQMIPMZGRE6KTP5$nome=THE GOOD DOCTOR 8 AO 18</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3o15JgAtHgluFkxH0F6ScdavBbn.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dr. Shaun Murphy se prepara para o seu quinto e último ano como residente no San Jose St. Bonaventure Hospital e, ao mesmo tempo, para o seu casamento com a sua namorada Lea.</info>
