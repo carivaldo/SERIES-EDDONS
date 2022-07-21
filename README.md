@@ -41,6 +41,14 @@ SERIES - EDDONS
 </item>
 
 <item>
+<title>[COLOR silver][B] A GUERRA DOS MUNDOS SÉRIE LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72dd65bcfd7198deb8e195941450a2e1b1df66e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zcUkFaxUtP3V3YjoS1fh8YRW19H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Inglaterra Eduardiana, George e sua parceira Amy tentam desafiar a sociedade e começar uma vida juntos, enquanto enfrentam o terror crescente de uma invasão alienígena, lutando por suas vidas contra um inimigo além de sua compreensão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM LIMITES 1° TEMPORADA COM (RODRIGO SANTORO) ATOR DA GLOBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FRLQIQYMAZOVKDM5HYPJGZ4ACRRRFVAD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8RAmN8pN40ZGDT8tYp3savTrqPs.jpg</thumbnail>
