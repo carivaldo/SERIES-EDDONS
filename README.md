@@ -11,6 +11,13 @@ SERIES - EDDONS
 <info> Todas as 7 temporadas completas da série Game of Thrones (Guerra dos Tronos no Brasil) 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª temporada. Game of Thrones, se passa em Westeros, uma terra remanescente da Europa Medieval, onde as estações duram por anos ou até mesmo décadas. A história gira em torno de uma batalha entre os Sete Reinos, onde duas famílias dominantes estão lutando pelo controle do Trono de Ferro, cuja posse assegura a sobrevivência durante o inverno de 40 anos que está por vir.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] O HOMEM MAIS ODIADO DA INTERNET 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c06953339d4dd244ff4e22120f7900b85b28c1b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jSyxV1FWldGztA2xyjC8HSo4l1d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Determinada a retirar as fotos da filha de um site de pornografia de vingança, uma mãe começa uma campanha online para responsabilizar o fundador.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] 1° TEMPORADA - OBI-WAN KENOBI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
