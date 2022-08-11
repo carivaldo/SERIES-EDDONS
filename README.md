@@ -44,11 +44,17 @@ SERIES - EDDONS
 </item>
 
 <item>
-<title>[COLOR silver][B] OUTLANDER 5º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abf72bdb241160c0b613b936123a5d606b127a33</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/s9Bt5DZ2MscEVr8FGYOlYScY44u.jpg</thumbnail>
+<title>[COLOR silver][B] OUTLANDER 6º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab5cbf19911e658bbe6dbd82cced3100e495dac$nome=EP. 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:455ec99a54a3363aaf078ff169b3cecb2d6041ec$nome=EP. 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e72998dcd2bb38a8fae16580c89aba1593562e5a$nome=EP. 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:832ce4b5955dac3726ec2216a5642e51fe68a8b7$nome=EP. 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b788d85b9891d1b584b30b5f4fa63fdff795c7$nome=EP. 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfe54540e0834b5653f191982c5793a00865528b$nome=EP. 6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ccc81a43ef3d9c45e8e583ff5b746d815d8558$nome=EP. 7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uOTrdMHOo0PHakW88c3SFL8KB99.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O canal Starz anunciou nessa quarta (09) que o romance épico Outlander vai ficar no ar por pelo menos mais duas temporadas, esticando a série até a sua 6ª.A 5ª e a 6ª temporadas de Outlander terão 12 episódios cada, em oposição aos 13 das últimas levas de capítulos.</info>
+<info> O ano é 1771. Na Carolina do Norte, conserva-se a duras penas um frágil equilíbrio entre a aristocracia colonial e os esforçados pioneiros. E entre esses dois lados prestes a entrar em conflito está Jamie Fraser (Sam Heughan), um homem de honra exilado de sua amada Escócia. Convocado a liderar uma milícia para conter as insurgências, ele sabe que quebrar o juramento que fez à Coroa inglesa o tornará um traidor, mas mantê-lo será a certeza de sua ruína. A guerra se aproxima, garantiu-lhe sua esposa, Claire (Caitriona Balfe). E, mesmo não querendo acreditar nesse triste futuro, Jamie Fraser está ciente de que não pode ignorar o conhecimento que só uma viajante do tempo poderia ter. Afinal, a visão única de Claire já os colocou em risco, mas também lhes trouxe salvação. Baseada no romance "A Cruz de Fogo", de Diana Gabaldon. • 12 episódios.</info>
 </item>
 
 <item>
