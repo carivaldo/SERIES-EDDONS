@@ -31,7 +31,7 @@ SERIES - EDDONS
 
 <item>
 <title>[COLOR silver][B] OUTLANDER 5º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e49d16b7386ba8527f2d51b64b3d6d16e9eb4175$nome=EP. 1=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e49d16b7386ba8527f2d51b64b3d6d16e9eb4175$nome=EP. 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f8d18eeb924d35b155cedf9e1bd398625695041$nome=EP. 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3c00120f6e6f8464432c367eba2db8c1cc83a3b$nome=EP. 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b97e417e69d5c442cabfd588545c90e4438b437$nome=EP. 4</link>
