@@ -478,6 +478,7 @@ Enredo: Shaun Murphy, um jovem cirurgião com autismo e síndrome de savant, rea
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4c6e2c94e386538d6d85355075c9951c32252ce$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7e08ee9af4192f22f5723f1b69a6b4bdd4c27e4$nome=EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce7f1dbefb5e1599859856ba6d8b3dfe840d060a$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d41bd37cf2b02d44baf23b69d4ab7ae6498e33ff$nome=EP.8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
