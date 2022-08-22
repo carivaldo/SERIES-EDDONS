@@ -1,7 +1,7 @@
 # SERIES---EDDONS
 SERIES - EDDONS
 
-<item>
+<items>
 <title>[COLOR silver][B] SÉRIE-MULHER-HULK: DEFENSORA DE HERÓIS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65P6SJ3TAC25VLMV375EKYSND7ZDS2GZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wgfYIC1zQ1b4mp6m5cJULEDNdUl.jpg</thumbnail>
@@ -908,7 +908,7 @@ Trinta anos depois do embate entre Daniel Larusso (Ralph Macchio) e Johnny Lawre
 <thumbnail>https://www.themoviedb.org/t/p/original/dHgkffPNJsRDNjaJ66jj32fIQc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Defina duas gerações antes da destruição do lendário planeta natal de Man of Steel, Krypton segue o avô de Superman - cuja Casa de El foi condenada ao ostracismo - ao lutar para resgatar a honra de sua família e salvar seu amado mundo do caos.</info>
-</item> 
+</items> 
 
 
 
