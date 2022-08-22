@@ -12,6 +12,14 @@ SERIES - EDDONS
 </item>
 
 <item>
+<title>[COLOR silver][B] INFINITI - MINISÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21140f873eb49cc277f7e41c4708684280c90d29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a3h5VpRcCeUk0alWx2nsv0D5CYy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um cadáver é encontrado em um telhado no Cazaquistão: pertence a Anthony Kurz, um astronauta americano atualmente na ISS. Anna Zarathi, uma astronauta francesa, e Isaak Turgun, um policial cazaque, decidiram resolver esse misterioso paradoxo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SÉRIE-MULHER-HULK: DEFENSORA DE HERÓIS 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65P6SJ3TAC25VLMV375EKYSND7ZDS2GZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wgfYIC1zQ1b4mp6m5cJULEDNdUl.jpg</thumbnail>
